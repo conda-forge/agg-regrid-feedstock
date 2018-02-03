@@ -1,6 +1,6 @@
 {% set name = "agg-regrid" %}
-{% set version = "0.2.1" %}
-{% set sha256 = "1ab034cd9c5363afcd2cf74073bf11ab16d9e3c81729433eb008fcb6e81be976" %}
+{% set version = "0.2.2" %}
+{% set sha256 = "9aac13e714b7375481ea424f051951edf21897d933b6b3b01822796ea0fdf2ab" %}
 
 package:
   name: {{ name }}
@@ -14,7 +14,6 @@ source:
 build:
   number: 0
   script: python setup.py install --single-version-externally-managed --record record.txt
-  skip: true  # [osx]
 
 requirements:
   build:
