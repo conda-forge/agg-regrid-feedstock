@@ -14,14 +14,16 @@ Summary: A conservative area-weighted regridder that uses AGG to rasterise a sou
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/agg-regrid-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/agg-regrid-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/agg-regrid-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/agg-regrid-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/agg-regrid-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/agg-regrid-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/agg-regrid-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/agg-regrid-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/agg-regrid-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/agg-regrid-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/agg-regrid-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/agg-regrid-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/agg-regrid/badges/version.svg)](https://anaconda.org/conda-forge/agg-regrid)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/agg-regrid/badges/downloads.svg)](https://anaconda.org/conda-forge/agg-regrid)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-agg--regrid-green.svg)](https://anaconda.org/conda-forge/agg-regrid) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/agg-regrid.svg)](https://anaconda.org/conda-forge/agg-regrid) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/agg-regrid.svg)](https://anaconda.org/conda-forge/agg-regrid) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/agg-regrid.svg)](https://anaconda.org/conda-forge/agg-regrid) |
 
 Installing agg-regrid
 =====================
